@@ -1,0 +1,19 @@
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Form1.resources
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Properties.Resources.resources
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.GenerateResource.cache
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe.config
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.pdb
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.exe
+D:\tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.pdb
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe.config
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.pdb
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csprojAssemblyReference.cache
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Form1.resources
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Properties.Resources.resources
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.GenerateResource.cache
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.exe
+D:\2. tugas pemrograman lanjot\Calculator\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.pdb

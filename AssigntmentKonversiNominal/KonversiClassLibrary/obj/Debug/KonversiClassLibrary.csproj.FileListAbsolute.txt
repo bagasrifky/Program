@@ -1,0 +1,12 @@
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiClassLibrary\bin\Debug\KonversiClassLibrary.dll
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiClassLibrary\bin\Debug\KonversiClassLibrary.pdb
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.csprojAssemblyReference.cache
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.csproj.CoreCompileInputs.cache
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.dll
+E:\Pemrograman\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.pdb
+D:\2. tugas pemrograman lanjot\Assignment02Terbilang-master\Assignment02Terbilang-master\AssigntmentKonversiNominal\KonversiClassLibrary\bin\Debug\KonversiClassLibrary.dll
+D:\2. tugas pemrograman lanjot\Assignment02Terbilang-master\Assignment02Terbilang-master\AssigntmentKonversiNominal\KonversiClassLibrary\bin\Debug\KonversiClassLibrary.pdb
+D:\2. tugas pemrograman lanjot\Assignment02Terbilang-master\Assignment02Terbilang-master\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.csprojAssemblyReference.cache
+D:\2. tugas pemrograman lanjot\Assignment02Terbilang-master\Assignment02Terbilang-master\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.csproj.CoreCompileInputs.cache
+D:\2. tugas pemrograman lanjot\Assignment02Terbilang-master\Assignment02Terbilang-master\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.dll
+D:\2. tugas pemrograman lanjot\Assignment02Terbilang-master\Assignment02Terbilang-master\AssigntmentKonversiNominal\KonversiClassLibrary\obj\Debug\KonversiClassLibrary.pdb

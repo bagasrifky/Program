@@ -1,0 +1,19 @@
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\bin\Debug\latihanWindowsForms.exe.config
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.csprojResolveAssemblyReference.cache
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.Form1.resources
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.Properties.Resources.resources
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.csproj.GenerateResource.Cache
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\bin\Debug\latihanWindowsForms.exe
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\bin\Debug\latihanWindowsForms.pdb
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.exe
+D:\17.11.1017 dosen\pertemuan 3\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.pdb
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\bin\Debug\latihanWindowsForms.exe.config
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\bin\Debug\latihanWindowsForms.exe
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\bin\Debug\latihanWindowsForms.pdb
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.csprojAssemblyReference.cache
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.Properties.Resources.resources
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.csproj.GenerateResource.cache
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.csproj.CoreCompileInputs.cache
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.exe
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.pdb
+D:\2. tugas pemrograman lanjot\latihanWindowsForms-20181012T125441Z-001\latihanWindowsForms\latihanWindowsForms\obj\Debug\latihanWindowsForms.FrmListMahasiswa.resources
